@@ -178,8 +178,13 @@ Through this project, I learned:
 - QR Code-Based Password Sharing
 
 ---
+## Screenshot
+```
+Screenshot 2026-06-24 092206.png
+```
+---
 
-## 👨‍💻 Author
+##  Author
 
 **Dheeraj Sai Kommuri**
 
