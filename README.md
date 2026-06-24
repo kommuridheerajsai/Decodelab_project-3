@@ -193,6 +193,6 @@ DecodeLabs Internship Program
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for educational and learning purposes under the DecodeLabs Python Internship Program.
